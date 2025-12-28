@@ -41,7 +41,7 @@ public void selectitems(){
 	public void goto1() {
 	driver.get("https://rahulshettyacademy.com/seleniumPractise/#/");
 	
-	
+	System.out.println("I am the best");
 }
 
 }
