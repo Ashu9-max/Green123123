@@ -42,7 +42,7 @@ public void selectitems(){
 	driver.get("https://rahulshettyacademy.com/seleniumPractise/#/");
 	
 	System.out.println("I am the best");
-	System.out.println("Priyanka1");
+	System.out.println("Priyanka3");
 }
 
 }
